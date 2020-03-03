@@ -4,10 +4,10 @@ A project where I can practice clojure code.
 
 ## I used the following commands to setup the project
 
-lein new app clojure-tutorial-project
-mvn archetype:generate -DgroupId=com.quercus.rules -DartifactId=clojure-tutorial-project -DarchetypeArtifactId=clojure-maven-archetype -DarchetypeGroupId=tk.skuro -DarchetypeVersion=1.3 -DinteractiveMode=false
-cd clojure-tutorial-project/
-git init
+    $ lein new app clojure-tutorial-project
+    $ mvn archetype:generate -DgroupId=com.quercus.rules -DartifactId=clojure-tutorial-project -DarchetypeArtifactId=clojure-maven-archetype -DarchetypeGroupId=tk.skuro -DarchetypeVersion=1.3 -DinteractiveMode=false
+    $ cd clojure-tutorial-project/
+    $ git init
 
 ## Usage
 
