@@ -27,7 +27,7 @@
   (println nil1)
   (println @atom1))
 
-(defn number-functions
+(defn number-functions []
 
   (def x1 (zero? 0.0))
   (def x2 (pos? 0))
