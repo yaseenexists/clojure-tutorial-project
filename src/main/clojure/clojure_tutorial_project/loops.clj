@@ -1,6 +1,6 @@
 (ns clojure-tutorial-project.loops)
 
-;; This example is used for loops
+;; This example is used to demonstrate loops
 (defn example-loops []
   (def x (atom 1))
 

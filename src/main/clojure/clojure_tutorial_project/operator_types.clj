@@ -1,6 +1,6 @@
 (ns clojure-tutorial-project.operator-types)
 
-;; This example is used for operator-types
+;; This example is used to demonstrate operator-types
 (defn example-operators []
   ;; The below code uses Arithmetic Operators
   (def a (+ 2 2))
